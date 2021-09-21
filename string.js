@@ -1,3 +1,5 @@
+//Group Members: Myself, Michael, and Saul
+
 //DrEvil
 //create a function called DrEvil. It should take a single argument, an amount
 //and return '<amount> dollars', except it will add '(pinky)' at the end if
